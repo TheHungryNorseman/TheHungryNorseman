@@ -1,0 +1,48 @@
+nav {
+  display: inline;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  background-color: black;
+  width:100%;
+  height: 20px;
+  text-align: center;
+  }
+a:hover {
+  background-color:yellow;
+  color: black;
+}
+a {
+  color: white;
+}
+section {
+  width: 50%;
+  top: 20px;
+  margin:0px;
+}
+section#left {
+  float:left;
+}
+section#right {
+  float:right;
+}
+footer {
+background-color: blue;
+width: 100%;
+height: auto;
+clear: both;
+margin: 0px;
+text-align: center;
+color: white;
+border: 3pt solid gray;
+}
+footer#left {
+  text-align: left;
+}
+h3 {
+  margin: 0px;
+
+}
+ol {
+  margin: 0px;
+}
