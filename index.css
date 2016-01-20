@@ -3,18 +3,13 @@ nav {
   position: fixed;
   top: 0px;
   left: 0px;
-  background-color: black;
+  background-color: blue;
+  color: white;
   width:100%;
-  height: 20px;
+  height: 60px;
   text-align: center;
   }
-a:hover {
-  background-color:yellow;
-  color: black;
-}
-a {
-  color: white;
-}
+
 section {
   width: 50%;
   top: 20px;
@@ -38,11 +33,4 @@ border: 3pt solid gray;
 }
 footer#left {
   text-align: left;
-}
-h3 {
-  margin: 0px;
-
-}
-ol {
-  margin: 0px;
 }
