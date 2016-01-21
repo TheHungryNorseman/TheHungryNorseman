@@ -1,3 +1,8 @@
+h1 {
+  font-family: Verdana, sans-serif;
+  font-size: 25pt;
+}
+
 nav {
   display: inline;
   position: fixed;
