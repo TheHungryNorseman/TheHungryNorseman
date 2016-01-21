@@ -4,6 +4,9 @@ h1 {
   margin: 20pt;
 }
 
+a {
+  margin:10pt;
+}
 nav {
   display: inline;
   position: fixed;
