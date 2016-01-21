@@ -1,13 +1,13 @@
 h1 {
   font-family: Verdana, sans-serif;
   font-size: 25pt;
-  margin: 20pt;
 }
 
 a {
-  margin:10pt;
+  margin:20pt;
 }
 nav {
+  margin: 20pt;
   display: inline;
   position: fixed;
   top: 0px;
