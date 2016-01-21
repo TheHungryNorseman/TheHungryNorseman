@@ -25,15 +25,16 @@ nav {
   }
 
 section {
-  width: 50%;
   top: 130px;
   margin:130px;
   height:500px;
 }
 section#left {
+  width:20%;
   float:left;
 }
 section#right {
+  width:80%;
   float:right;
 }
 footer {
