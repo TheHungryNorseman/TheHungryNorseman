@@ -40,12 +40,14 @@ body {
 }
 
 section#left {
+  position: relative;
   top: 160px;
   width:25%;
   float:left;
 }
 
 section#middle {
+  position: relative;
   top: 160px;
   width:48%;
   margin-top:150px;
@@ -55,6 +57,7 @@ section#middle {
 }
 
 section#right {
+  position: relative;
   top: 160px;
   width:25%;
   float:right;
