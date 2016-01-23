@@ -42,8 +42,6 @@ body {
 section {
   min-height: 100%;
   position: relative;
-  top: 100px;
-  margin-top: 100px;
 }
 
 section#left {
