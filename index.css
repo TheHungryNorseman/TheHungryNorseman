@@ -41,6 +41,8 @@ section#left {
 section#middle {
   width:48%;
   margin: 0 auto;
+  margin-left:25%;
+  margin-right:25%;
 }
 section#right {
   width:25%;
