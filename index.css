@@ -12,7 +12,6 @@ a {
 }
 
 nav {
-  visibility: hidden;
   margin: 0pt;
   display: inline;
   position: fixed;
