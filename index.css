@@ -62,12 +62,13 @@ section#right {
   float:right;
 }
 footer {
+  position: fixed;
+  margin-top: -80px;
+  height:80px;
 background-color: blue;
 width: 100%;
 height: auto;
 clear: both;
-margin: 0px;
-text-align: center;
 color: white;
 border: 3pt solid gray;
 }
