@@ -31,15 +31,13 @@ body {
     height:500px;
 }
 
-section {
-  margin-top:150px;
-}
 section#left {
   width:25%;
   float:left;
 }
 section#middle {
   width:48%;
+  margin-top:150px;
   margin: 0 auto;
   margin-left:25%;
   margin-right:25%;
