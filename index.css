@@ -40,11 +40,13 @@ body {
 }
 
 section#left {
+  top: 160px;
   width:25%;
   float:left;
 }
 
 section#middle {
+  top: 160px;
   width:48%;
   margin-top:150px;
   margin: 0 auto;
@@ -53,6 +55,7 @@ section#middle {
 }
 
 section#right {
+  top: 160px;
   width:25%;
   float:right;
 }
