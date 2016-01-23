@@ -4,6 +4,10 @@ h1 {
   margin: 15pt;
 }
 
+h3 {
+  text-align: center;
+}
+
 a {
   margin:15pt;
   color:white;
