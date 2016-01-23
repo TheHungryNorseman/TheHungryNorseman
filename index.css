@@ -33,9 +33,10 @@ nav {
   border: 3pt solid gray;
   }
   
-html, body {
+body {
   border:3 pt solid gray;
     height:100%;
+  margin: 0px;
 }
 
 section {
