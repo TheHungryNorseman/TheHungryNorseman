@@ -62,7 +62,6 @@ section#right {
   float:right;
 }
 footer {
-position: static;
 background-color: blue;
 width: 100%;
 height: auto;
