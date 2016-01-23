@@ -20,7 +20,6 @@ a {
 }
 
 nav {
-  visibility: hidden;
   z-index: 1;
   display: inline;
   position: fixed;
