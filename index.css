@@ -69,8 +69,5 @@ width: 100%;
 clear: both;
 color: white;
 border: 3pt solid gray;
-}
-
-footer#left {
-  text-align: left;
+text-align: left;
 }
