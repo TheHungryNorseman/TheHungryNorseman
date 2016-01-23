@@ -59,6 +59,7 @@ section#right {
 }
 
 footer {
+min-height: 100%;
 display: block;
 height: 40px;
 margin-bottom: 40px;
